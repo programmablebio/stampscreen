@@ -6,3 +6,5 @@ Pipelines to determine the core set of transcription factors from RNA-Seq data t
 Please navigate to appropriate repositories for pipelines.
 
 Read about our paper here: https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00137-5
+
+Authors: Pranam Chatterjee and Helen Wang
